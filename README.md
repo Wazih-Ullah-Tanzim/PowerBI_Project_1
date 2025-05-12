@@ -3,6 +3,7 @@
 
 **Key Insights from the Dashboard:**
 ![Screenshot_1](https://github.com/user-attachments/assets/daef9521-0408-455d-8269-f71c0a6685bd)
+
 ![Screenshot_2](https://github.com/user-attachments/assets/026851be-5743-47e6-8b79-e6acc8b75f12)
 
 1) In January, Top-performing Countries: The UK, Australia, and Canada show strong sales performance, both in total amount and number of boxes shipped.
@@ -10,6 +11,7 @@
 3) In January, Australia accounted for the largest share of boxes shipped, at 23.43%.
 
 ![Screenshot_8](https://github.com/user-attachments/assets/6d4393c1-cc58-4020-b383-3eaeb2fca525)
+
 ![Screenshot_3](https://github.com/user-attachments/assets/7f42d5b0-be69-43ab-972c-f7ff2d1b34f5)
 
 **Key Insights from the Dashboard:**
