@@ -1,11 +1,11 @@
 
 ![Screenshot_7](https://github.com/user-attachments/assets/75277973-9468-4ded-8311-79e763f7afb8)
 
-**Key Insights from the Dashboard:**
 ![Screenshot_1](https://github.com/user-attachments/assets/daef9521-0408-455d-8269-f71c0a6685bd)
 
 ![Screenshot_2](https://github.com/user-attachments/assets/026851be-5743-47e6-8b79-e6acc8b75f12)
 
+**Key Insights from the Dashboard:**
 1) In January, Top-performing Countries: The UK, Australia, and Canada show strong sales performance, both in total amount and number of boxes shipped.
 2) In January, Dennison Crosswaite shipped maximum Boxes 1830 and Ches Bonnel was highest in sum of amount .
 3) In January, Australia accounted for the largest share of boxes shipped, at 23.43%.
