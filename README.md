@@ -14,10 +14,11 @@
 
 ![Screenshot_3](https://github.com/user-attachments/assets/7f42d5b0-be69-43ab-972c-f7ff2d1b34f5)
 
-**Key Insights from the Dashboard:**
 
+
+**Key Insights from the Dashboard:**
 1) In February, Canada led in terms of number of boxes shipped, accounting for 3563 boxes, which is 19.78% of total shipments.
-2) 
+   
 ![Screenshot_5](https://github.com/user-attachments/assets/fa1737e7-ff33-4461-ba6b-e34ff81ab93a)
 
 3)  In February, Also in sales amount Canada achieved $134456.
